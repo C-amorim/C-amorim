@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:272935,100:2bcefa&height=220&section=header&text=👾%20C-amorim%20Pixel%20World%20👾&fontSize=40&fontAlignY=38&desc=Front-End%20Jr%20|%20Python%20Enthusiast%20|%20Estudante%20de%20ADS&descAlign=60&descSize=20&animation=fadeIn&fontColor=fff" alt="pixel banner"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=800&size=24&pause=1000&color=2BCEFA&background=27293500&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+repositório!;Level+up+em+Front-end+%2B+Python;Let's+Play+Code!+%F0%9F%8E%AE" alt="typing animation">
 </p>
 
 ---

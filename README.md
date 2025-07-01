@@ -49,7 +49,6 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvo
 
 - [Gerenciador de Extensões](https://github.com/C-amorim/Gerenciador_de_Extensoes)  
   Centralize, organize e automatize o controle de extensões do seu ambiente favorito.  
-  [Acesse online](https://gerenciador-de-extensoes-kappa.vercel.app)
 
 - [Noticias](https://github.com/C-amorim/Noticias)  
   Portal de notícias com layout responsivo, focado em boas práticas de HTML, CSS e JS.

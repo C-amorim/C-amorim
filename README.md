@@ -50,9 +50,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camorimm)
 
 ---
-
-<div align="center">
-
-![Snake animation](https://github.com/C-amorim/C-amorim/blob/output/github-contribution-grid-snake.svg)
-
-</div>
